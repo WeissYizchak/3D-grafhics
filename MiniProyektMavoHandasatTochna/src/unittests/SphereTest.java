@@ -86,8 +86,7 @@ class SphereTest { /// FROM AVI MARGALI !!
 		}
 		if (list6 != null)
 			assertEquals(10, list6.size(), "10 points");
-		else
-			fail("null list");
+
 		
 		
 		
