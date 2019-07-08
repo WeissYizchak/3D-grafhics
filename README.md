@@ -1,3 +1,4 @@
+![Grade: 100](https://img.shields.io/badge/Grade-100-brightgreen.svg) 
 # 3D-grafhics
 This is my project in **Introduction to Software Engineering** course.  
 I did the project with [@Ruli Yakovson](https://github.com/RulyYakovson).
@@ -37,5 +38,5 @@ culculate the shadow of the point.
 step 4:  
 culculate the transparency and reflection of the intersection point.
 
-## saving runtime
-I added to the project an implementation of the 3D-DDA algorithm.
+## Performence
+the app Implement the 3D-DDA algorithm to save performence.
