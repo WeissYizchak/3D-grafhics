@@ -1,8 +1,8 @@
 # 3D-grafhics
-## Description  
-This is my project in **Introduction to Software Engineering** course.
+This is my project in **Introduction to Software Engineering** course.  
 I did the project with [@Ruli Yakovson](https://github.com/RulyYakovson).
 
+## Description  
 The software has the ability to model  
 
 basic geometrical shapes such:
