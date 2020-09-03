@@ -40,3 +40,10 @@ culculate the transparency and reflection of the intersection point.
 
 ## Performence
 the app Implement the 3D-DDA algorithm to save performence.
+
+## Exsampels
+<img src="https://user-images.githubusercontent.com/35064970/92090860-a1b60180-edd8-11ea-8452-bd735872b0bc.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/35064970/92091728-cf4f7a80-edd9-11ea-9e6b-32f5534017e3.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/35064970/92091846-fc039200-edd9-11ea-8c33-3d70d7503971.png" alt="drawing" width="200"/>
+
+
